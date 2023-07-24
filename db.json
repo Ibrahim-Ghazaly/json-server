@@ -1,4 +1,10 @@
 {
+  "country":[
+    {
+      "id":1,
+      "name":"Egypt"
+    }
+  ],
   "posts": [
     {
       "id": 1,
