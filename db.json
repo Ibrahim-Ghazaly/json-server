@@ -5,13 +5,7 @@
       "name":"Egypt"
     }
   ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
+
   "authors": [
     {
       "author": "Mohamed Hamada",
