@@ -1,4 +1,26 @@
 {
+  "country": [
+    {
+      "name": "Egypt",
+      "id": 1
+    },
+    {
+      "name": "KSA",
+      "id": 2
+    },
+    {
+      "name": "Qatar",
+      "id": 3
+    },
+    {
+      "name": "Iraq",
+      "id": 4
+    },
+    {
+      "name": "Syria",
+      "id": 5
+    }
+  ],
   "posts": [
     {
       "id": 1,
@@ -162,54 +184,6 @@
         "rate": 2.9,
         "count": 340
       }
-    },
-    {
-      "title": "samsungA90",
-      "category": "samsung",
-      "price": "2500",
-      "id": 18
-    },
-    {
-      "title": "samsungA70",
-      "category": "samsung",
-      "price": "7200",
-      "id": 21
-    },
-    {
-      "title": "samsung56",
-      "category": "samsung",
-      "price": "3700",
-      "id": 22
-    },
-    {
-      "title": "samsungA9",
-      "category": "samsung",
-      "price": "9862",
-      "id": 24
-    },
-    {
-      "title": "oppo11",
-      "category": "oppo",
-      "price": "2350",
-      "id": 26
-    },
-    {
-      "title": "oppo09",
-      "category": "oppo",
-      "price": "4260",
-      "id": 27
-    },
-    {
-      "title": "Appel100",
-      "category": "appell",
-      "price": "6540",
-      "id": 29
-    },
-    {
-      "title": "oppo23",
-      "category": "oppo",
-      "price": "6920",
-      "id": 30
     }
   ]
 }
