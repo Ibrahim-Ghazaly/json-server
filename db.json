@@ -23,17 +23,8 @@
   ],
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "authors": [
-    {
-      "author": "Mohamed Hamada",
-      "description": "saudi arabia",
-      "age": "22",
-      "id": 13
+      "id":1,
+      "name":"Egypt"
     },
     {
       "author": "Ibrahim ghazaly",
@@ -187,3 +178,4 @@
     }
   ]
 }
+  
