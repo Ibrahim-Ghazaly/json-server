@@ -1,4 +1,22 @@
 {
+  "financilaPeriods": [
+    {
+      "start_date": "01/01/2023",
+      "end_date": "30/6/2023",
+      "desc": "",
+      "closed": false,
+      "profits_loses": 23658,
+      "id": 1
+    }
+  ],
+  "closedPeriods": [
+    {
+      "closed_date": "06/09/2023",
+      "desc": "",
+      "closed": true,
+      "id": 1
+    }
+  ],
   "country": [
     {
       "name": "Egypt",
@@ -23,8 +41,8 @@
   ],
   "posts": [
     {
-      "id":1,
-      "name":"Egypt"
+      "id": 1,
+      "name": "Egypt"
     },
     {
       "author": "Ibrahim ghazaly",
@@ -178,4 +196,3 @@
     }
   ]
 }
-  
